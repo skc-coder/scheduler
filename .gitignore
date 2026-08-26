@@ -1,0 +1,11 @@
+# Build artifacts & temporary files
+build/
+bin/
+*.o
+*.out
+src/main
+main
+
+# Private Learning & Curriculum Files (Ignored for public presentation)
+ignore/
+learn/
